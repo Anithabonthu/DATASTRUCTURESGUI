@@ -5,13 +5,15 @@ Linear Stack
 
 Singly Linked List
 
+Circular Linked List
+
 Doubly Linked List
 
 Queue
 
 Priority Queue
 
-Each data structure comes with its own dedicated interface to perform operations like push,pop,insert,delete,and visualize the structure
+
 
 # Python's Tkinter
 
