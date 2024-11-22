@@ -21,4 +21,5 @@ Tkinter is Python's standard GUI (Graphical User Interface) library, providing t
 
 # Implementation video
 
-https://www.linkedin.com/feed/update/urn:li:activity:7263794470591094786/
+[https://www.linkedin.com/feed/update/urn:li:activity:7263794470591094786/](https://github.com/user-attachments/assets/01cbb750-ecaf-440c-b410-c26ad3a19c1d
+)
